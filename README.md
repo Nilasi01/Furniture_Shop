@@ -18,9 +18,9 @@ A fully responsive furniture shop website built using only HTML, CSS, and vanill
 
 ## 📸 Screenshots
 
--- Products page - https://github.com/Nilasi01/Furniture_Shop/blob/main/products-page.png
--- Navigation page - https://github.com/Nilasi01/Furniture_Shop/blob/main/navigationbar.png
--- About page - https://github.com/Nilasi01/Furniture_Shop/blob/main/about-page.png
--- Company page - https://github.com/Nilasi01/Furniture_Shop/blob/main/company-page.png 
+-Products page - https://github.com/Nilasi01/Furniture_Shop/blob/main/products-page.png
+-Navigation page - https://github.com/Nilasi01/Furniture_Shop/blob/main/navigationbar.png
+-About page - https://github.com/Nilasi01/Furniture_Shop/blob/main/about-page.png
+- Company page - https://github.com/Nilasi01/Furniture_Shop/blob/main/company-page.png 
 
 
