@@ -14,7 +14,7 @@ A fully responsive furniture shop website built using only HTML, CSS, and vanill
 
 - HTML5
 - CSS3
-- JavaScript (vanilla)
+- JavaScript
 
 ## 📸 Screenshots
 
